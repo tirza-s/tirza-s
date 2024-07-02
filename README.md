@@ -1,5 +1,5 @@
 ## Hi there 👋🏽 , I'm Tirza
-### 👩🏻‍💻 Aspiring Software Developer</h3>
+### 👩🏻‍💻 Aspiring Software Developer | 🐳 Marine Biology Graduate </h3>
 
 🌱 I’m currently learning [CS50 Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) at Harvard University. Previously, I have also completed courses in Java at [INTEC](https://www.intecbrussel.be/opleidingen) Brussel 
 
