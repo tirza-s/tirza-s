@@ -9,9 +9,6 @@
 ## 📊 Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirza-s&show_icons=true&theme=gruvbox) </br>
 
-## 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=tirza-s&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🌐 Connect with me on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirza-s-9442171bb/) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
