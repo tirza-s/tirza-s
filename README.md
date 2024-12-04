@@ -2,7 +2,7 @@
 ### 👩🏻‍💻 Aspiring Software Developer | 🐳 Marine Biology Graduate </h3>
 
 🌱 I am currently a student at [SheCodes Bootcamp](https://www.shecodes.io/), where I am enhancing my technical skills and building a strong foundation in software development. 
-Prior to that, I completed a one-year intensive Java programming course at [INTEC](https://www.intecbrussel.be/opleidingen) which helped strengthen my skills and deepen my passion for coding and continuous learning.
+Prior to that, I completed a one-year intensive Java programming course at [INTEC Brussels](https://www.intecbrussel.be/opleidingen) which helped strengthen my skills and deepen my passion for coding and continuous learning.
 
 🚀 My goal is to continue refining my skills, gaining practical experience, and building a successful career as a software developer.
 
