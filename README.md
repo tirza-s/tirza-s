@@ -1,9 +1,10 @@
 ## Hi there 👋🏽 , I'm Tirza
 ### 👩🏻‍💻 Aspiring Software Developer | 🐳 Marine Biology Graduate </h3>
 
-🌱 I’m currently learning [CS50 Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) at Harvard University. Previously, I have also completed courses in Java at [INTEC](https://www.intecbrussel.be/opleidingen) Brussel 
+🌱 I am currently a student at [SheCodes Bootcamp](https://www.shecodes.io/), where I am enhancing my technical skills and building a strong foundation in software development. 
+Prior to that, I completed a one-year intensive Java programming course at [INTEC](https://www.intecbrussel.be/opleidingen) which helped strengthen my skills and deepen my passion for coding and continuous learning.
 
-🚀 My goal is to further develop my proficiency in Python and gain practical experience to embark on a career as a software developer.
+🚀 My goal is to continue refining my skills, gaining practical experience, and building a successful career as a software developer.
 
 ## 🧰 Languages & Framework 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
