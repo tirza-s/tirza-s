@@ -17,4 +17,3 @@ Prior to that, I completed a one-year intensive Java programming course at [INTE
 
 ## 🌐 Connect with me on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirza-s-9442171bb/) 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
