@@ -1,5 +1,5 @@
 ## Hi there 👋🏽 , I'm Tirza
-### 👩🏻‍💻 Frontend Developer | 🐳 Marine Biology Graduate </h3>
+### 👩🏻‍💻 Frontend Developer </h3>
 
 🌱 I am currently a student at [SheCodes Bootcamp](https://www.shecodes.io/graduates/48642-tirza-samosir), where I am enhancing my technical skills and building a strong foundation in software development. 
 Prior to that, I completed a one-year intensive Java programming course at [INTEC Brussels](https://www.intecbrussel.be/opleidingen) which helped strengthen my skills and deepen my passion for coding and continuous learning.
