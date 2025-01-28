@@ -1,6 +1,6 @@
 ## Hi there 👋🏽 , I'm Tirza
 
-🎨 I'm a Front-End Developer passionate about design and development. 
+🎨 I'm a Front-End Developer passionate about design and development. </br>
 🌱 I’m always eager to learn, grow, and contribute to building great digital solutions.
 
 ## 🧰 Languages & Framework 
