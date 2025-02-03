@@ -16,5 +16,3 @@
 ## 📊 Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirza-s&show_icons=true&theme=codeSTACKr) </br>
 
-## 🌐 Connect with me on 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirza-s-9442171bb/) 
