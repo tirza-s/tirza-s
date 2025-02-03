@@ -1,4 +1,4 @@
-## Hi there 👋🏽 , My name is Tirza ;
+## Hi there 👋🏽 My name is Tirza ;
 
 🎨 I'm a Front-End Developer passionate about design and development. </br>
 🌱 I’m always eager to learn, grow, and contribute to building great digital solutions.
