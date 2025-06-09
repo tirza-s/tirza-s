@@ -1,7 +1,7 @@
 ## Hi there 👋🏽 My name is Tirza ;
 
-🎨 I'm a Front-End Developer passionate about design and development. </br>
-🌱 I’m always eager to learn, grow, and contribute to building great digital solutions.
+🎨 I’m an aspiring Front-End Developer with a unique background in marine biology, project management, business analysis, and digital support.  </br>
+🌱 I’m always eager to learn, grow, and contribute to building great web solutions or digital support.
 
 ## 🧰 Languages & Framework 
 ### Skills
