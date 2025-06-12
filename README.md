@@ -1,8 +1,4 @@
-## Hi there 👋🏽 My name is Tirza ;
-
-🎨 I’m an aspiring Front-End Developer with a unique background in marine biology, project management, business analysis, and digital support.  </br>
-🌱 I’m always eager to learn, grow, and contribute to building great web solutions or digital support.
-
+## Hi there 👋🏽
 ## 🧰 Languages & Framework 
 ### Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%23E50695.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
