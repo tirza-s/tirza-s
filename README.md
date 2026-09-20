@@ -1,6 +1,6 @@
 ## Hi there 👋🏽
 ### I'm Tirza 
-##### Curious by nature. 
+##### About technology - I like to understand how things work and how they're built. 
 ##### I enjoy learning by exploring and creating and I'm specially drawn to things that are functional, thoughtful and beautifully made.
 
 ## 🧰 Languages & Framework 
